@@ -1,0 +1,12 @@
+# This is for the Microsoft Assessments Build Pipeline. Please don't change without
+# talking to v-magran, David.Stanford
+
+trigger:
+- master
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- script: echo nothing to do here!
+  displayName: 'Starting AzDO Build'
