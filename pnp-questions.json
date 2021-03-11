@@ -136,8 +136,8 @@
                 "score": 20
             },
             {
-                "title": "None of the above",
-                "context": " ",
+                "title": "None of the above.",
+                "context": "",
                 "recommendations": [],
                 "score": 0
             }
