@@ -12,7 +12,7 @@
         "choices": [
             {
                 "waf_github_content_id": "app_design_recovery_targets",
-                "title": "Recovery targets to identify how long the workload can be unavailable (Recovery Time Objective) and how much data is acceptable to lose during a disaster (Recovery Point Objective).",
+                "title": "Recovery targets to identify how long the workload can be unavailable (Recovery Time Objective) and how much data is acceptable to lose during a disaster (Recovery Point Objective)...",
                 "context": "Understanding customer reliability expectations is vital to reviewing the overall reliability of the application. For instance, if a customer is striving to achieve an application RTO of less than a minute then back-up based and active-passive disaster recovery strategies are unlikely to be appropriate \nRecovery time objective (RTO): The maximum acceptable time the application is unavailable after a disaster incident \nRecovery point objective (RPO): The maximum duration of data loss that is acceptable during a disaster event",
                 "recommendations": [
                     {
