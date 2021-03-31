@@ -5,11 +5,11 @@ trigger:
   branches:
     include:
     - master
-paths:
-    include:
-    - data/pnp-questions.json
-    exclude:
-    - ./*
+  paths:
+      include:
+      - data/pnp-questions.json
+      exclude:
+      - ./*
 
 
 pr: none
