@@ -8,8 +8,7 @@ trigger:
   paths:
       include:
       - /data/pnp-questions.json
-      exclude:
-      - /
+
 
 
 pr: none
