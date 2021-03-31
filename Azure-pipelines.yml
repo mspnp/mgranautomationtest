@@ -2,7 +2,15 @@
 # talking to v-magran, David.Stanford
 
 trigger:
-- master
+  branches:
+    include:
+    - master
+paths:
+    include:
+    - data/pnp-questions.json
+    exclude:
+    - ./*
+
 
 pr: none
 
